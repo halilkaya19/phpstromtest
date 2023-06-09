@@ -1,0 +1,1 @@
+sanal dünya
