@@ -1,3 +1,3 @@
-dsasda
-
-adsds
+<?php
+echo "Merhaba dünya"
+?>
